@@ -1,6 +1,5 @@
 # Análise de Dados Públicos #
 
-##### José Elias de Oliveira #####
 
 ### Introdução ###
 Projeto com o intuito de usar o python para realizar a analise de dados públicos. Nesse projeto foi escolhido a informação do Censo escolar de 2018. Este projeto está sendo desenvolvido para as matérias de Estrutura de Dados e Laboratório de Banco de Dados do curso de Análise de Sistemas da  FATEC Professor Jessen Vidal.
